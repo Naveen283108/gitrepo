@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GitRepo</string>
+    <string name="stars">starts</string>
+    <string name="forks">forks</string>
+</resources>

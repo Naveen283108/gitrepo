@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Gitrepo" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/design_default_color_primary</item>
+        <item name="colorSecondary">@color/design_default_color_secondary</item>
+    </style>
+
+
+    <style name="Theme.Gitrepo" parent="Base.Theme.Gitrepo" />
+
+</resources>
